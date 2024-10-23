@@ -3975,6 +3975,10 @@
                   </Sprite>
                 </Sprites>
               </SpriteFolder>
+              <SpriteFolder Name="New folder">
+                <SubFolders />
+                <Sprites />
+              </SpriteFolder>
             </SubFolders>
             <Sprites>
               <Sprite Slot="2000" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">

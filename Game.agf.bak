@@ -656,6 +656,10 @@
             <Description IsNull="True" />
             <Number>1</Number>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Description IsNull="True" />
+            <Number>2</Number>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -3970,6 +3974,10 @@
                     </Source>
                   </Sprite>
                 </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="New folder">
+                <SubFolders />
+                <Sprites />
               </SpriteFolder>
             </SubFolders>
             <Sprites>
